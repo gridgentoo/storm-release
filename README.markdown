@@ -7,6 +7,12 @@ https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/
 [Инфогра́фика сравнение Версий HDP] что нового в HDP 3.0 архитектуре (и какие версии Сервисы HDP обновлены)  
 https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/  
 
+Архитектура ZooKeeper  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb3vwhhPF8ShsS8kNsn8emtt  
+
+Профилирование JVM для BigData  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb2Xmx_xuNYsuR0UDGqccJnI  
+
 [Storm, Lambda Architecture, Clojure] Натана Марц создатель Storm в Twitter
 https://www.youtube.com/watch?v=oMwbYJlK2W0
 
