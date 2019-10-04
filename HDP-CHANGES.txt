@@ -1,0 +1,44 @@
+Changes only in Hortonworks github and not in Apache Storm release 1.2.1
+ * BUG-120513: Bump activemq version to 5.15.9
+ * BUG-120514: update jackson version to 2.9.9
+ * STORM-3123: add support for Kafka security config in storm-kafka-monitor
+ * STORM-3046: Ensure KafkaTridentSpoutEmitter handles empty batches correctly
+ * BUG-117987: Upgrade to thrift 0.12.0
+ * BUG-118274: Upgrade jackson to 2.9.8
+ * BUG-114383: ignore client.jartransformer.class if the value (after stripping) is empty
+ * BUG-113011: fix leader-nimbus process is not able to come up when restarted
+ * BUG-111537: Exclude jsp-api 2.1 from storm-autocreds
+ * STORM-3026: Upgrade ZK instance for security
+ * BUG-106354: add config to filter 'Server:' HTTP header
+ * BUG-109517: Storm Service check fails due to TTransportException
+ * BUG-109163: Fix a few dependencies causing issues in black duck scan
+ * BUG-109159: exclude sigar from storm-starter
+ * BUG-109157: fix for CVE 2018-1332
+ * BUG-108203 In local mode, topology min replication count must be 1
+ * STORM-3052: Allow for blobs to be unzipped/untarred
+ * BUG-107549: exclude curator-client from storm-autocreds transitive dependency
+ * STORM-3110: Skip the user while checking isProcessAlive
+ * BUG-104149 Prevent supervisor crash when topology conf file doesn't exist in updateBlobsForTopology
+ * BUG-104396: Include Google Connector in Storm
+ * BUG-103322 Upgrade HikariCP version to 2.4.7
+ * BUG-103251 Upgrade Disruptor version to 3.3.11
+ * BUG-100777: exclude commons-httpclient and httpclient
+ * BUG-100777: exclude log4-1.2.17 dependencies
+ * BUG-102698 Storm - Allow users to specify maven local repository directory
+ * BUG-102230 STORM-3039 handle slot ports in TIME_WAIT state
+ * BUG-100777: Fix some of the issues reported in blackduck scan
+ * BUG-100128: Exclude jersey dependencies from storm-autocreds
+ * BUG-99973 Decouple storm-hive UTs with Hive
+ * BUG-99706: Update the kafka version for storm-kafka-client to match the version used in HDF 3.1
+ * BUG-99706 - Update kafka_client version latest 0.1.0 build
+ * BUG-99227: Use unique names for TridentFile and TridentSequence spouts
+ * BUG-95923: storm-autocreds to support HDP 3.0 (hdfs, hbase, hive)
+ * BUG-98362: Storm HDFS bolt throws ClosedChannelException when Time rotation policy is used
+ * BUG-95921: Upgrade storm-hdfs to support HDFS 3.0
+ * BUG-97111: Update commons-fileupload version
+ * STORM-2911 add serialVersionUID to storm-kafka SpoutConfig
+ * STORM-2896: Add tool to help users migrate offsets from storm-kafka to storm-kafka-client
+ * STORM-2952: Deprecate storm-kafka
+ * BUG-97011: exclude avro jar from storm-autocreds
+ * STORM-2946: Upgrade to HBase 2.0
+ * STORM-2960 Stress importance of setting up proper OS account for Storm processes
