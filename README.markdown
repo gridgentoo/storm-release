@@ -13,8 +13,8 @@ https://www.youtube.com/playlist?list=PLrTrFnOkIFb3vwhhPF8ShsS8kNsn8emtt
 Профилирование JVM для BigData  
 https://www.youtube.com/playlist?list=PLrTrFnOkIFb2Xmx_xuNYsuR0UDGqccJnI  
 
-[Storm, Lambda Architecture, Clojure] Натана Марц создатель Storm в Twitter
-https://www.youtube.com/watch?v=oMwbYJlK2W0
+[Storm, Lambda Architecture, Clojure] Натана Марц создатель Storm в Twitter  
+https://www.youtube.com/watch?v=oMwbYJlK2W0  
 
 Master Branch: [![Travis CI](https://travis-ci.org/apache/storm.svg?branch=master)](https://travis-ci.org/apache/storm)
 
