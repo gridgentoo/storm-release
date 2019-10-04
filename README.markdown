@@ -1,6 +1,12 @@
 код hortonworks : : hortonworks Public storm release repository  
 https://github.com/hortonworks/storm-release/tree/HDP-3.1.4.2-2-tag
 
+[Сделать обновление HDP & Ambari & других служб] Аудит установленных пакетов  
+https://docs.google.com/document/d/1RxK7codJ4Uvbzn10AJK_GyT1rCPtMTjoQzH3JUxj55s/  
+
+[Инфогра́фика сравнение Версий HDP] что нового в HDP 3.0 архитектуре (и какие версии Сервисы HDP обновлены)  
+https://docs.google.com/document/d/1_wrgl8VhExWK8fKmr6Jxv6YEPhT9jXLxejIL72xDMVw/  
+
 Master Branch: [![Travis CI](https://travis-ci.org/apache/storm.svg?branch=master)](https://travis-ci.org/apache/storm)
 
 Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation. Storm is simple, can be used with any programming language, [is used by many companies](http://storm.apache.org/documentation/Powered-By.html), and is a lot of fun to use!
